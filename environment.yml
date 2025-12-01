@@ -1,0 +1,26 @@
+name: infinigen-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - scipy
+  - pillow
+  - tqdm
+  - gin-config
+  - psutil
+  - trimesh
+  - vnoise
+  - shapely
+  - networkx
+  - scikit-image
+  - opencv
+  - matplotlib
+  - seaborn
+  - imageio
+  - pyyaml
+  - pytorch
+  - pip:
+      - bpy==3.6.0
