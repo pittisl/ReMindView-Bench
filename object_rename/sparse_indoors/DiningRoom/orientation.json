@@ -1,0 +1,113 @@
+{
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_0/ChairFactory(1985297).spawn_asset(2109405)": "Chair",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_0/ChairFactory(1985297).spawn_asset(2146686)": "Chair",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_0/ChairFactory(1985297).spawn_asset(5442067)": "Chair",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_0/ChairFactory(1985297).spawn_asset(7693757)": "Chair",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_0/ChairFactory(1985297).spawn_asset(7991274)": "Chair",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_0/ChairFactory(1985297).spawn_asset(8345882)": "Chair",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_0/KitchenCabinetFactory(4337611).spawn_asset(3020338)": "brown Cabinet",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_0/KitchenCabinetFactory(8925381).spawn_asset(6715169)": "brown Cabinet",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_0/LargeShelfFactory(6929767).spawn_asset(3291726)": "wooden Shelf",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_0/SimpleBookcaseFactory(2739505).spawn_asset(5703240)": "white Bookcase",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_0/SimpleBookcaseFactory(5986560).spawn_asset(4352669)": "brown Bookcase",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_0/SingleCabinetFactory(833780).spawn_asset(5966291)": "Cabinet",
+
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_1/ChairFactory(447936).spawn_asset(3121751)": "Chair",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_1/ChairFactory(447936).spawn_asset(4740260)": "Chair",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_1/ChairFactory(447936).spawn_asset(8978932)": "Chair",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_1/KitchenCabinetFactory(7271878).spawn_asset(854316)": "Kitchen Cabinet",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_1/SingleCabinetFactory(1943033).spawn_asset(3334611)": "Cabinet",
+
+
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_2/CellShelfFactory(4666181).spawn_asset(5729420)": "Cell Shelf",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_2/ChairFactory(2831334).spawn_asset(7994108)": "Chair",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_2/ChairFactory(2831334).spawn_asset(8004390)": "Chair",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_2/ChairFactory(2831334).spawn_asset(9070580)": "Chair",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_2/KitchenCabinetFactory(2347097).spawn_asset(7369745)": "Kitchen Cabinet",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_2/MirrorFactory(3003243).spawn_asset(636779)": "Mirror",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_2/WallArtFactory(4962505).spawn_asset(7455053)": "green Wall Art",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_2/WallArtFactory(642001).spawn_asset(9648485)": "red Wall Art",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_2/WallArtFactory(6463569).spawn_asset(6719893)": "green Wall Art",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_3/ChairFactory(77281).spawn_asset(1213297)": "Chair",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_3/ChairFactory(77281).spawn_asset(4268703)": "Chair",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_3/KitchenCabinetFactory(4460483).spawn_asset(3098017)": "Kitchen Cabinet",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_3/WallArtFactory(2751499).spawn_asset(6306086)": "Wall Art",
+
+
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_4/CellShelfFactory(1003198).spawn_asset(3377070)": "Cell Shelf",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_4/CellShelfFactory(1232090).spawn_asset(7087925)": "Cell Shelf",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_4/ChairFactory(8211866).spawn_asset(1196641)": "Chair",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_4/ChairFactory(8211866).spawn_asset(2073061)": "Chair",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_4/ChairFactory(8211866).spawn_asset(6901646)": "Chair",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_4/ChairFactory(8211866).spawn_asset(8273805)": "Chair",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_4/BalloonFactory(3737906).spawn_asset(703030)": "Balloon",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_4/ForkFactory(9012739).spawn_asset(6829522)": "Fork",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_4/MirrorFactory(3465146).spawn_asset(7997528)": "Mirror",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_4/PlateFactory(790025).spawn_asset(9284460)": "Plate",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_4/SimpleBookcaseFactory(2039839).spawn_asset(1853912)": "brown empty Bookcase",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_4/SimpleBookcaseFactory(2290953).spawn_asset(7709831)": "Bookcase",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_4/SimpleBookcaseFactory(298913).spawn_asset(6746380)": "grey wooden Bookcase",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_4/WallArtFactory(707615).spawn_asset(3165306)": "Wall Art",
+
+
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_5/ChairFactory(7147918).spawn_asset(1832712)": "Chair",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_5/ChairFactory(7147918).spawn_asset(2082305)": "Chair",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_5/ChairFactory(7147918).spawn_asset(7636825)": "Chair",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_5/ChairFactory(7147918).spawn_asset(78978)": "Chair",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_5/ChairFactory(7147918).spawn_asset(8657773)": "Chair",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_5/ChairFactory(7147918).spawn_asset(900634)": "Chair",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_5/LargeShelfFactory(7350162).spawn_asset(1752477)": "one column wooden Shelf",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_5/SimpleBookcaseFactory(7745403).spawn_asset(3936320)": "Bookcase",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_5/SingleCabinetFactory(8253056).spawn_asset(9810961)": "Cabinet",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_5/WallArtFactory(6438201).spawn_asset(7173995)": "Wall Art",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_5/WallArtFactory(6524403).spawn_asset(2961542)": "Wall Art",
+
+
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_6/ChairFactory(5389236).spawn_asset(243802)": "Chair",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_6/ChairFactory(5389236).spawn_asset(3463829)": "Chair",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_6/ChairFactory(5389236).spawn_asset(8533502)": "Chair",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_6/ForkFactory(9169114).spawn_asset(3716272)": "Fork",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_6/ForkFactory(9169114).spawn_asset(5380718)": "Fork",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_6/ForkFactory(9169114).spawn_asset(6778849)": "Fork",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_6/LargeShelfFactory(4662581).spawn_asset(528459)": "Large empty white Shelf",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_6/LargeShelfFactory(6439195).spawn_asset(610738)": "Large empty brown Shelf",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_6/LargeShelfFactory(7140476).spawn_asset(387205)": "Large three row white Shelf",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_6/SimpleBookcaseFactory(9002773).spawn_asset(6812653)": "Bookcase",
+
+
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_7/ChairFactory(4405118).spawn_asset(1941788)": "Chair",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_7/ChairFactory(4405118).spawn_asset(2155384)": "Chair",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_7/ChairFactory(4405118).spawn_asset(3472224)": "Chair",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_7/ChairFactory(4405118).spawn_asset(5675578)": "Chair",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_7/ChairFactory(4405118).spawn_asset(9454280)": "Chair",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_7/KnifeFactory(2091663).spawn_asset(7951730)": "Knife",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_7/LargeShelfFactory(8685141).spawn_asset(9568722)": "Shelf",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_7/MirrorFactory(2237919).spawn_asset(1823283)": "Mirror",
+
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_7/SingleCabinetFactory(9408054).spawn_asset(3133624)": "Cabinet",
+     
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_7/WallArtFactory(3662450).spawn_asset(4857560)": "Wall Art",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_7/WallArtFactory(8842967).spawn_asset(4011887)": "Wall Art",
+
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_8/CellShelfFactory(6879133).spawn_asset(7243370)": "Cell Shelf",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_8/ChairFactory(8534359).spawn_asset(1302553)": "Chair",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_8/ChairFactory(8534359).spawn_asset(6340787)": "Chair",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_8/ChairFactory(8534359).spawn_asset(885840)": "Chair",
+
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_8/LargeShelfFactory(6027267).spawn_asset(2285876)": "Large wooden Shelf",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_8/LargeShelfFactory(9086041).spawn_asset(116008)": "Large white Shelf",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_8/MirrorFactory(1595380).spawn_asset(8362974)": "Mirror",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_8/SimpleBookcaseFactory(5850709).spawn_asset(3650486)": "white Bookcase",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_8/SingleCabinetFactory(7901955).spawn_asset(8415077)": "wooden Cabinet",
+     
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_8/WallArtFactory(1508761).spawn_asset(2562761)": "Wall Art",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_8/WallArtFactory(6654783).spawn_asset(1756477)": "Wall Art",
+
+
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_9/ChairFactory(7976450).spawn_asset(1615301)": "Chair",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_9/ChairFactory(7976450).spawn_asset(6144784)": "Chair",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_9/ChairFactory(7976450).spawn_asset(7843074)": "Chair",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_9/ChairFactory(7976450).spawn_asset(8327390)": "Chair",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_9/KitchenCabinetFactory(4432008).spawn_asset(2827483)": "Kitchen Cabinet",
+    "sparse_object_centric_view_frame_outputs_processed/DiningRoom/DiningRoom_9/SingleCabinetFactory(4630036).spawn_asset(8102608)": "Cabinet"
+}

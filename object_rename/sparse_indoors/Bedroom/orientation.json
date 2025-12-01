@@ -1,0 +1,62 @@
+{
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_0/BedFactory(36440).spawn_asset(3569866)": "Bed",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_0/KitchenCabinetFactory(2373605).spawn_asset(481508)": "Kitchen Cabinet",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_0/LargeShelfFactory(2808038).spawn_asset(5974241)": "Large Shelf",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_0/SimpleDeskFactory(4786299).spawn_asset(1553312)": "Desk",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_0/SingleCabinetFactory(4686301).spawn_asset(3205320)": "Cabinet",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_1/BedFactory(4649008).spawn_asset(9052224)": "Bed",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_1/CellShelfFactory(8572502).spawn_asset(6563021)": "Cell Shelf",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_1/SimpleBookcaseFactory(787657).spawn_asset(3685878)": "Bookcase",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_1/SimpleDeskFactory(7629234).spawn_asset(5544825)": "Desk",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_2/BedFactory(4358381).spawn_asset(5200096)": "Bed",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_2/CellShelfFactory(5106017).spawn_asset(9566110)": "Cell Shelf",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_2/KitchenCabinetFactory(9185990).spawn_asset(6692864)": "Kitchen Cabinet",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_2/LargeShelfFactory(2737387).spawn_asset(9015093)": "Large white Shelf",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_2/LargeShelfFactory(9389719).spawn_asset(5133981)": "Large wooden Shelf",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_2/MonitorFactory(2638201).spawn_asset(6723988)": "Monitor",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_2/SideTableFactory(4222759).spawn_asset(8901280)": "Side Table",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_2/SimpleDeskFactory(6296699).spawn_asset(6675986)": "Desk",
+
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_3/BedFactory(115551).spawn_asset(7825846)": "Bed",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_3/SimpleBookcaseFactory(4274820).spawn_asset(1260389)": "white empty Bookcase",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_3/SimpleBookcaseFactory(8849663).spawn_asset(3278466)": "white tall Bookcase",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_4/BedFactory(791944).spawn_asset(7726546)": "Bed",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_4/KitchenCabinetFactory(267889).spawn_asset(4176448)": "Kitchen Cabinet",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_4/LargeShelfFactory(7742614).spawn_asset(5241052)": "Large Shelf",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_4/SimpleDeskFactory(1513007).spawn_asset(7830441)": "Desk",
+     
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_4/WallArtFactory(8120620).spawn_asset(8685613)": "Wall Art",
+
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_5/BedFactory(4313147).spawn_asset(3066041)": "Bed",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_5/CellShelfFactory(7787321).spawn_asset(3303795)": "Cell Shelf",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_5/LargeShelfFactory(1467602).spawn_asset(147779)": "Large Shelf",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_5/WallArtFactory(6633549).spawn_asset(6014460)": "Wall Art",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_5/WallArtFactory(749054).spawn_asset(9128078)": "Wall Art",
+
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_6/BedFactory(6269062).spawn_asset(7359128)": "Bed",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_6/MirrorFactory(4752570).spawn_asset(8743933)": "Mirror",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_6/MonitorFactory(1993272).spawn_asset(8571645)": "Monitor",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_6/SimpleBookcaseFactory(1975010).spawn_asset(8412386)": "Bookcase",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_6/SimpleDeskFactory(2758246).spawn_asset(3071155)": "Desk",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_6/SingleCabinetFactory(2893414).spawn_asset(5200831)": "Cabinet",
+     
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_6/WallArtFactory(8070617).spawn_asset(5282259)": "Wall Art",
+
+
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_7/CellShelfFactory(6080956).spawn_asset(4068129)": "Cell Shelf",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_7/SimpleBookcaseFactory(672182).spawn_asset(1822746)": "Bookcase",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_8/KitchenCabinetFactory(2788628).spawn_asset(2506462)": "Kitchen Cabinet",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_8/LargeShelfFactory(6612785).spawn_asset(3521201)": "Large Shelf",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_8/MirrorFactory(1429364).spawn_asset(845731)": "Mirror",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_8/SimpleDeskFactory(4642086).spawn_asset(5366008)": "Desk",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_8/SingleCabinetFactory(3522130).spawn_asset(8922191)": "Cabinet",
+     
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_8/WallArtFactory(4975407).spawn_asset(6770939)": "Wall Art",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_9/BedFactory(3789877).spawn_asset(7782644)": "Bed",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_9/CellShelfFactory(3488458).spawn_asset(7641507)": "Cell Shelf",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_9/CellShelfFactory(6106419).spawn_asset(7398026)": "Cell Shelf",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_9/KitchenCabinetFactory(4399557).spawn_asset(858941)": "Kitchen Cabinet",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_9/MonitorFactory(6670725).spawn_asset(3477713)": "Monitor",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_9/SimpleDeskFactory(4489754).spawn_asset(8178718)": "Desk",
+    "sparse_object_centric_view_frame_outputs_processed/Bedroom/Bedroom_9/SingleCabinetFactory(2901457).spawn_asset(4205670)": "Cabinet"
+}

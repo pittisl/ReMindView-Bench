@@ -1,0 +1,12 @@
+{
+    "elevation_deg": 15.0,
+    "init_distance_factor": 1.2,
+    "resolution": 10,
+    "full_visibility_threshold": 0.8,
+    "front_axis": "Y",
+    "sweep_step_deg": 10,
+    "sweep_max_deg": 360,
+    "samples": 128,
+    "resolution_x": 1024,
+    "resolution_y": 768
+}
