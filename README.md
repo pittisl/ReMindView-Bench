@@ -1,5 +1,5 @@
 # Reasoning-Path-and-Latent-State-Analysis-for-Mulit-view-Visual-Spatial-Reasoning
-## This repository is the official implementation of paper: Reasoning Path and Latent State Analysis for Mulit-view Visual Spatial Reasoning: A Cognitive Science Perspective ![Pipeline overview](figures/figure1.png)
+This repository is the official implementation of paper: Reasoning Path and Latent State Analysis for Mulit-view Visual Spatial Reasoning: A Cognitive Science Perspective ![Pipeline overview](figures/figure1.png)
 
 ## The overview of ReMindView-Bench multiview spatial reasoning VQA generation pipeline: ![Sample outputs](figures/figure2.png)
 
