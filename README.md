@@ -16,7 +16,7 @@ This repository is the official implementation of paper: Reasoning Path and Late
 
 ## Pipeline details
 - `scene_generation.sh`: creates indoor scenes with `python -m infinigen_examples.generate_indoors`, then renders object-centric and view-centric frames via `object_centric_view_frame_generation.py` and `view_centric_view_frame_generation.py`. Camera/visibility configs live in `*_generation_config.json`.
-- `generate_object_list.py`: scans rendered frames and writes per-room object visibility summaries used later for QA construction.
+- `generate_object_list.sh`: scans rendered frames and writes per-room object visibility summaries used later for QA construction.
 - `clean_visual_data.py`: drops frames with no visible objects and prunes empty directories.
 - `ground_truth_generation.py`: builds multiple-choice QA CSVs using visibility metadata, room/object rename maps in `object_rename/`, and templates in `query_template.json`. Use `--blender_dir_path` if scenes live outside `outputs/`, and `--rename_dir_path` to point to custom rename/orientation JSONs.
 
