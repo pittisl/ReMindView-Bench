@@ -1,5 +1,5 @@
 # ReMindView-Bench
-Reasoning Path and Latent State Analysis for Multi-view Visual Spatial Reasoning. This repository contains the data generation pipeline and evaluation scripts for ReMindView-Bench.
+This repository contains the data generation pipeline and evaluation scripts for ReMindView-Bench for paper [Reasoning Path and Latent State Analysis for Multi-view Visual Spatial Reasoning](https://arxiv.org/abs/2512.02340)
 
 ![Pipeline overview](figures/figure1.png)
 
