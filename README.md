@@ -19,7 +19,7 @@ Reasoning Path and Latent State Analysis for Multi-view Visual Spatial Reasoning
 
 ## Project Overview
 - Paper: Reasoning Path and Latent State Analysis for Multi-view Visual Spatial Reasoning ([arXiv:2512.02340](https://arxiv.org/abs/2512.02340)).
-- Dataset: planned public release; scripts here reproduce the synthetic data.
+- Dataset: ReMindView-Bench hosted on Hugging Face at [Xue0823/ReMindView-Bench](https://huggingface.co/datasets/Xue0823/ReMindView-Bench); scripts here reproduce the synthetic data.
 - Figures in the repository mirror the organization of the generation pipeline (scene generation, rendering, QA construction).
 
 ## Requirements
@@ -108,7 +108,7 @@ The organization mirrors the paper sections (scene generation → rendering → 
 Evaluation entrypoints live in `evaluation/` (`eval_models.sh`, `eval_internvl35.py`, `eval_llava_onevision.py`, `eval_qwen_vl.py`). Some evaluation code paths are intentionally left minimal; add checkpoints and dataset paths before use. Additional evaluation scripts will be added here as they are released.
 
 ## Using the Generated Dataset
-Simple example to load QA pairs for a VQA task:
+Download the dataset from [Hugging Face](https://huggingface.co/datasets/Xue0823/ReMindView-Bench) or produce it locally via the pipeline above. Simple example to load QA pairs for a VQA task:
 ```python
 import pandas as pd
 
