@@ -78,11 +78,11 @@ This repository contains the data generation pipeline and evaluation scripts for
 ![Sample outputs](figures/figure2.png)
 | Stage | Script(s) | Inputs | Outputs |
 | --- | --- | --- | --- |
-| Scene synthesis | `scene_generation.sh` (+ `infinigen_examples.generate_indoors`) | Seeds, room types, gin configs | Blender scenes under `outputs/indoors/<ROOM>_<SEED>` |
-| Rendering | `object_centric_view_frame_generation.py`, `view_centric_view_frame_generation.py` | `scene.blend`, camera configs (`*_generation_config.json`) | Rendered frames and metadata under `object_centric_view_frame_outputs/` and `view_centric_view_frame_outputs/` |
+| Scene generation | `scene_generation.sh` (+ `infinigen_examples.generate_indoors`) | Seeds, room types, gin configs | Blender scenes under `outputs/indoors/<ROOM>_<SEED>` |
+| View rendering | `object_centric_view_frame_generation.py`, `view_centric_view_frame_generation.py` | `scene.blend`, camera configs (`*_generation_config.json`) | Rendered frames and metadata under `object_centric_view_frame_outputs/` and `view_centric_view_frame_outputs/` |
 | Visibility pruning | `clean_visual_data.py` | Rendered frame dirs | Pruned frame dirs without empty renders |
-| Visibility metadata | `generate_object_list.py` | Rendered frame dirs | Object visibility summaries used for QA |
-| QA construction | `ground_truth_generation.py`, `ground_truth_generation.sh` | Visibility metadata, rename maps in `object_rename/`, `query_template.json` | Multiple-choice QA CSVs for view-view, view-object, and object-object tasks |
+| Metadata extraction | `generate_object_list.py` | Rendered frame dirs | Object visibility summaries used for QA |
+| VQA construction | `ground_truth_generation.py`, `ground_truth_generation.sh` | Visibility metadata, rename maps in `object_rename/`, `query_template.json` | Multiple-choice QA CSVs for view-view, view-object, and object-object tasks |
 
 ## Repository Map
 ```
