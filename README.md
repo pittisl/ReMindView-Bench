@@ -120,13 +120,11 @@ Each row includes the frame folder, query text, ground truth, and choices, so yo
 ## Citation
 If you use ReMindView-Bench, please cite the accompanying paper:
 ```bibtex
-@misc{remindviewbench2025,
-  title         = {Reasoning Path and Latent State Analysis for Multi-view Visual Spatial Reasoning},
-  author        = {Xue, Qiyao and collaborators},
-  year          = {2025},
-  archivePrefix = {arXiv},
-  eprint        = {2512.02340},
-  url           = {https://arxiv.org/abs/2512.02340}
+@article{xue2025reasoning,
+  title={Reasoning Path and Latent State Analysis for Multi-view Visual Spatial Reasoning: A Cognitive Science Perspective},
+  author={Xue, Qiyao and Liu, Weichen and Wang, Shiqi and Wang, Haoming and Wu, Yuyang and Gao, Wei},
+  journal={arXiv preprint arXiv:2512.02340},
+  year={2025}
 }
 ```
 
