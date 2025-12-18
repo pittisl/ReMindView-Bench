@@ -23,7 +23,7 @@ This repository contains the data generation pipeline and evaluation scripts for
 - Figures in the repository mirror the organization of the generation pipeline (scene generation, rendering, QA construction).
 
 ## Requirements
-- Blender: 3.6 LTS (bundled Python 3.10) or newer with `bpy==3.6.0`.
+- Blender: 3.6 LTS (bundled Python 3.10) or newer with `bpy==3.6.0` (included in infinigen environment).
 - Python: 3.10 (matches Blender’s bundled interpreter).
 - GPU: NVIDIA GPU with at least 12 GB VRAM recommended for rendering.
 - OS: Linux or macOS; commands below assume Bash.
